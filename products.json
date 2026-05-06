@@ -4,8 +4,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Starter",
-      "price": 199,
+      "name": "Create a Website",
+      "price": 20,
       "category": "Web Development",
       "brand": "AK",
       "rating": 4.6,
@@ -13,36 +13,8 @@
       "stock": 42,
       "featured": true,
       "new": false,
-      "description": "1 page, responsive design, basic SEO, contact form",
+      "description": "Multiple pages, responsive design, basic SEO, contact form, edit yourself, free hosting",
       "image": "./images/starter.png"
-    },
-    {
-      "id": 2,
-      "name": "Business",
-      "price": 499,
-      "category": "Web Development",
-      "brand": "AK",
-      "rating": 4.4,
-      "reviews": 89,
-      "stock": 18,
-      "featured": true,
-      "new": false,
-      "description": "5 pages, modern UI, speed optimization, contact form",
-       "image": "./images/business.png"
-    },
-    {
-      "id": 3,
-      "name": "Full Stack",
-      "price": 999,
-      "category": "Web Development",
-      "brand": "AK",
-      "rating": 4.8,
-      "reviews": 312,
-      "stock": 120,
-      "featured": false,
-      "new": false,
-      "description": "login, register, sql database, admin panel, crud, security",
-       "image": "./images/full-stack.png"
     }
   ]
 }
